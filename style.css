@@ -41,7 +41,7 @@
 }
 
 /* --- Nav Bar --- */
-.nav__list {
+.nav__list{
     list-style: none;
     display: flex;
     gap: 75px;
